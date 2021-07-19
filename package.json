@@ -1,0 +1,27 @@
+{
+  "name": "gpx_editor_js",
+  "version": "1.0.0",
+  "description": "GPX editor in JavaScript",
+  "main": "main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Claycot/gpx_editor_js.git"
+  },
+  "keywords": [
+    "gpx",
+    "gps"
+  ],
+  "author": "claycot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Claycot/gpx_editor_js/issues"
+  },
+  "homepage": "https://github.com/Claycot/gpx_editor_js#readme",
+  "dependencies": {}
+}
